@@ -8,26 +8,6 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Password;
 use Mail;
-use Illuminate\Support\Facades\Lang;
-
-// use Illuminate\Http\Request;
-// use App\Http\Controllers\Controller;
-// use Illuminate\Support\Facades\Validator;
-// use Illuminate\Support\Facades\Auth;
-// use Illuminate\Http\Request;
-// use Illuminate\Support\Facades\Storage;
-// use Illuminate\Support\Facades\File;
-// use App\User;
-// use App\States;
-// use App\Countries;
-// use App\BillingAddress;
-// use App\ShippingAddress;
-// use Illuminate\Support\Facades\Hash;
-// use Illuminate\Support\Facades\Password;
-// use DB;
-// use Mail;
-// use Illuminate\Support\Facades\Lang;
-
 
 class SendresetemailsController extends Controller
 {
